@@ -1,10 +1,10 @@
 department-NCWL = Liga dos Trabalhadores da Nova Crescente
-department-NCSP = Coalizão das Estações Livres de Taypan
+department-NCSP = Coalizão das Estações Livres Taipenhas
 department-DSM = Mandato Solar Divino
 department-SRM = Sexta Milícia de São Romaine
 department-SHI = Industriais Pesados Shinohara
 department-CMM = Minutemen Coloniais
 department-TAP = Pacto Taypani-Atyriano
-department-ATH = Autoridade Central de Sol
+department-ATH = Autoridade Central Solar
 department-NCWL-W = Restantes da Defesa da Liga
 department-DSM-W = Divisão penal do Império

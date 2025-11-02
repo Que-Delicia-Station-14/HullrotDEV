@@ -2,34 +2,34 @@
 rank-ordering = {$rank} {$name}
 
 # default
-crescent-rank-private = Pvt.
+crescent-rank-private = Recruta
 
 # independents
-crescent-rank-ind-gliess-sheriff = Sheriff
+crescent-rank-ind-gliess-sheriff = Xerife
 crescent-rank-ind-gliess-deputy = Deputy
-crescent-rank-ind-gliess-dockmaster = Dockmaster
+crescent-rank-ind-gliess-dockmaster = Mestre de Porto
 crescent-rank-ind-spacer = Spacer
-crescent-rank-ind-dockhand = Dockhand
+crescent-rank-ind-dockhand = Estivador
 
 # shi
-crescent-rank-shi-executive = Manager
-crescent-rank-shi-board = Exec.
+crescent-rank-shi-executive = Gerente
+crescent-rank-shi-board = Executivo
 crescent-rank-shi-corpsec = CorpSec.
-crescent-rank-shi-highsec = Employee
-crescent-rank-shi-employee = Employee
+crescent-rank-shi-highsec = Empregado
+crescent-rank-shi-employee = Empregado
 crescent-rank-shi-medtech = Medtech
 
 # empire
-crescent-rank-baron = Lord Admiral
-crescent-rank-adjutant = Adjutant
-crescent-rank-knight = Ser
-crescent-rank-manatarms = Levy
-crescent-rank-smarts = Dr.
-crescent-rank-ministry = Minister
+crescent-rank-baron = Lorde Almirante
+crescent-rank-adjutant = Ajudante
+crescent-rank-knight = Senhor
+crescent-rank-manatarms = Soldado
+crescent-rank-smarts = Doutor
+crescent-rank-ministry = Ministro
 crescent-rank-courtier = Edler
-crescent-rank-archmaester = Archmaester
-crescent-rank-advocatus = Advocati
-crescent-rank-templar = Knight Templar
+crescent-rank-archmaester = Arquimeistre
+crescent-rank-advocatus = Advocato
+crescent-rank-templar = Templário
 crescent-rank-freeholder = Freeholder
 
 # dsm-conscript
@@ -56,29 +56,29 @@ crescent-rank-ncwl-doctor = Doktor
 
 # ncwl
 crescent-rank-ncwl-faction-leader = Major
-crescent-rank-ncwl-home-leader = Kommissar
-crescent-rank-ncwl-home-squad-lead = Kapitan
-crescent-rank-ncwl-home-soldat = Partisan
-crescent-rank-ncwl-logi-leader = Artificer
-crescent-rank-ncwl-engi-leader = Coordinator
+crescent-rank-ncwl-home-leader = Komissario
+crescent-rank-ncwl-home-squad-lead = Kapitão
+crescent-rank-ncwl-home-soldat = Partisão
+crescent-rank-ncwl-logi-leader = Artífice
+crescent-rank-ncwl-engi-leader = Coordenador
 crescent-rank-ncwl-medi-worker = Sanitar
-crescent-rank-ncwl-worker = Comrade
+crescent-rank-ncwl-worker = Companheiro
 
 
 # syn
 
 crescent-rank-synadmin = Ringleader
-crescent-rank-boss = Lieutenant
-crescent-rank-patriarch = Patriarch
-crescent-rank-operative = Operative
-crescent-rank-op = Cpl.
+crescent-rank-boss = Tenente
+crescent-rank-patriarch = Patriarca
+crescent-rank-operative = Operativo
+crescent-rank-op = Anspeçado
 crescent-rank-pfc = Pvt.
-crescent-rank-foreman = Foreman
-crescent-rank-saw = Shipbreaker
-crescent-rank-coordinator = Director
-crescent-rank-agent = Agent
+crescent-rank-foreman = Supervisor
+crescent-rank-saw = Sucateiro
+crescent-rank-coordinator = Diretor
+crescent-rank-agent = Agente
 crescent-rank-doc = Doc
-crescent-rank-freeman = Freeman
+crescent-rank-freeman = Homem Livre
 
 # tsp
 

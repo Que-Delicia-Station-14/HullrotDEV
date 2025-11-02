@@ -1,11 +1,11 @@
-station-event-pang-tai-trader-announcement = Corporate trader vessel, PTA Gu Tian, has entered the Sector with valid commercial license. The Gu Tian will anchor nearby and offer its wares.
-station-event-pang-tai-trader-complete-announcement = Corporate trader vessel, PTA Gu Tian, has fulfilled its profit quota. It will be leaving the Sector.
+station-event-pang-tai-trader-announcement = A embarcação comercial corporativa, PTA Gu Tian, entrou no Setor com uma licença comercial válida. A Gu Tian irá se ancorar e oferecer suas mercadorias.
+station-event-pang-tai-trader-complete-announcement = A embarcação comercial corporativa, PTA Gu Tian, alcançou sua meta de lucro e estará saindo do Setor.
 
-station-event-shinohara-trader-announcement = Corporate trader vessel, SHI Kitamura Jeon, has entered the Sector with valid commercial license. The Kitamura Jeon will anchor nearby and offer its wares.
-station-event-shinohara-trader-complete-announcement = Corporate trader vessel, SHI Kitamura Jeon, has fulfilled its profit quota. It will be leaving the Sector.
+station-event-shinohara-trader-announcement = A embarcação comercial corporativa, SHI Kitamura Jeon, entrou no Setor com uma licença comercial válida. A Kitamura Jeon irá se ancorar e oferecer suas mercadorias.
+station-event-shinohara-trader-complete-announcement = A embarcação comercial corporativa, SHI Kitamura Jeon, alcançou sua meta de lucro e estará saindo do Setor.
 
-station-event-nano-trasen-probe-announcement = Naval Command advises all spaceborne pilots that a derelict NanoTrasen probe has been towed out of bluespace. Navalcomm recommends extreme caution to all prospectors that are looking to potentially scavenge the site, and recommends a medical checkup thereafter to check for psychic contaminants.
-station-event-nano-trasen-probe-complete-announcement = Naval Command informs all spaceborne pilots that the derelict NanoTrasen surveyor probe has been towed into a secure location; participant groups have been rewarded for their diligence in clearing the vessel.
+station-event-nano-trasen-probe-announcement = Comando Naval informa todos pilotos atualmente no espaço que uma sonda abandonada da NanoTrasen tem sido tirada de bluespace. Comando Naval recomenda cuidado extremo a todos interessados em potencialmente vasculhar ela, e recomenda um exame médico subsequente para procurar por contaminantes psíquicos.
+station-event-nano-trasen-probe-complete-announcement = Comando Naval informa todos pilotos atualmente no espaço que a sonda abandonada da NanoTrasen foi levada a uma localização segura; grupos participantes foram recompensados por sua determinação em esvaziar a embarcação.
 
-station-event-infested-station-announcement = Naval Command informs all spaceborne pilots that an unaffiliated Hearth-class mobile outpost has experienced a contamination field failure and is now broadcasting for help. Navcomm will reward all sovereign groups who interfere.
-station-event-infested-station-complete-announcement = Naval Command informs all spaceborne pilots that the Hearth-class mobile outpost has been towed into unstable bluespace for deconstruction and decontamination. Participants have been rewarded.
+station-event-infested-station-announcement = Comando Naval informa todos pilotos atualmente no espaço que um posto móvel não afiliado de classe-Forja sofreu uma falha no campo de contaminação e está soando por ajuda. Comando Naval irá recompensar todos grupos soberanos que interferirem.
+station-event-infested-station-complete-announcement = Comando Naval informa todos pilotos atualmente no espaço que o posto móvel classe-Forja foi movido a um campo bluespace instável para desconstrução e descontaminação. Participantes foram recompensados.

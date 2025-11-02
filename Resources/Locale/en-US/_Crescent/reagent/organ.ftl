@@ -1,1 +1,1 @@
-materials-organs = exotic proteins
+materials-organs = proteínas exóticas
