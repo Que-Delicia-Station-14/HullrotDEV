@@ -1,2 +1,2 @@
-shield-emitter-examine-undamaged = The emitter is running at full effeciency.
-shield-emitter-examine-damaged = The emitter is drawing [color=purple]{$percent}%[/color] more power from damage.
+shield-emitter-examine-undamaged = O emissor está funcionando em eficiência maxima.
+shield-emitter-examine-damaged = O emissor está usando [color=purple]{$percent}%[/color] energia a mais por causa do dano.

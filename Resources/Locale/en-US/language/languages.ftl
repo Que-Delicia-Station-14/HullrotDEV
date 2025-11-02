@@ -44,7 +44,7 @@ language-Tradeband-description =
     The medium language of Sector Crescent. Rooted in terran Slavic languages, but retrofitted
     by speakers to accomodate nonhuman vocal chords as well. 
 
-language-Freespeak-name = Freespeak
+language-Freespeak-name = Jargão Taipenho
 language-Freespeak-description =
     A language of renegades and frontiersmen descending from various languages from Earth-- like Hindi,
     combined into a multi-rooted jumble that sounds incoherent or even barbarian to non-native speakers.
@@ -61,7 +61,7 @@ language-Canilunzt-description =
     The guttural language spoken and utilized by the inhabitants of the Vazzend system,
     composed of growls, barks, yaps, and heavy utilization of ears and tail movements. Vulpkanin speak this language with ease.
 
-language-Moffic-name = Atyrian
+language-Moffic-name = Atyriano
 language-Moffic-description = The language of the Atyrians borders on complete unintelligibility.
 
 language-RobotTalk-name = RobotTalk

@@ -1,22 +1,22 @@
-piercing-induced-blunt = Piercing Induced Blunt
-advertisement-arcadiadrobe-1 = Wares,
-advertisement-nfsddrobe-1 = Weapons.
-advertisement-ship-1 = Ships.
-advertisement-war-1 = War.
+piercing-induced-blunt = Contundente induzido por perfuração
+advertisement-arcadiadrobe-1 = Mercadorias,
+advertisement-nfsddrobe-1 = Armas.
+advertisement-ship-1 = Naves.
+advertisement-war-1 = Guerra.
 
-reagent-name-Boriatic-fuel = Boriatic fuel
-reagent-desc-Boriatic-fuel = A mixture of plasma isotopes with hydrogen and light petrolium products.
+reagent-name-Boriatic-fuel = Combustível boriático
+reagent-desc-Boriatic-fuel = Uma mistura de isótopos de plasma com hidrogênio e produtos leves de petróleo.
 narcan = Narcan
-narcan-desc = A chemical used for the stabilization of patients who have overdosed on narcotics.
+narcan-desc = Usado na estabilização de indivíduos overdosando.
 
-workers-league-console = Workers League Bounty Console. Uses imperial IDs as currency.
+workers-league-console = Computador de redenção da União. Usa IDs de imperiais como moeda
 
-imperial-console = Mandate Bounty Console. Uses communard IDs as currency
+imperial-console = Computador de redenção Imperial. Usa IDs de comunistas como moeda
 
-saw-console = Scrapaloid Bounty Console. Uses scrap as currency
+saw-console = Computador de redenção Sucatoloide. Usa sucata como moeda
 
-gsc-console = gsc bounty console. uses plunder as currency
+gsc-console = Computador de redenção Gorlex. Usa itens pirateados como moeda
 
-ipm-console = Interdyne Bounty Console. Uses exotic proteins as currency.
+ipm-console = Computador de redenção Interdyne. Usa proteínas exóticas como moeda
 
-ship-comm-console = ship communications console
+ship-comm-console = console de comunicação

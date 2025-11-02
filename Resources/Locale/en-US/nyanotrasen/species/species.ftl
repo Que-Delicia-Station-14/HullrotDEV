@@ -1,2 +1,2 @@
-species-name-oni = Oni
-species-name-felinid = Felinid
+species-name-oni = Vizdomita
+species-name-felinid = Aberração

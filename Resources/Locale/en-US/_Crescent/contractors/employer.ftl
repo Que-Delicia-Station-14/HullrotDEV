@@ -1,11 +1,11 @@
 
-employer_name_irc = The Iron Ring Company
-employer_name_irc_command = Iron Ring
-employer_description_irc = Founded as a subsidiary for Shinohara Heavy Industries, The Iron Ring Company has since then branched off of it's mother company to settle in the Iron Ring within the Scrapsea. The premiere supplier of salvage equipment in the Sector, the Company operates out of the salvage yard that serves as it's headquarters in Chengridz beside the Homeguard Naval Yards, bolstering the Union economy.
+employer_name_irc = A Compania Aro de Ferro
+employer_name_irc_command = Aro de Ferro
+employer_description_irc = Fundada como uma subsidiaria para a Indústrias Pesadas Shinohara, A Aro de Ferro tem ,desde então, seguido seu próprio caminho e se estabelecido no Aro de Ferro dentro do Mar de Destroços. O principal fornecedor de equipamento para sucateamento no Setor, a Compania opera no pátio de sucata que serve como sua sede em Chengridz ao lado do Pátio Naval da Guarda, com enriquecimento junto da economia da União.
 
-employer_name_pta = Pang Tai Arms
-employer_name_pta_command = Kiraigo Navalcomm
-employer_description_pta = Operating out of the Free Duchies from the royal capital of Kiraigo, Pang Tai Arms is the favored supplier for small-scale militias and mercenary solos looking for robust, affordable equipment in the frontier. Dabbling primarily in infantry equipment, Pang Tai Arms has recently expanded it's armaments range to include a variety of shuttle-mounted weaponry and basic vessel designs, and branched out to Taypan with the blessing of Her Majesty Isobel II to bypass the royal blockade that separates Taypan from the rest of the world for trade.
+employer_name_pta = Pang Tai Armas
+employer_name_pta_command = Comando Naval Kiraigo
+employer_description_pta = Vindo dos Ducados Livres, da capital real de Kiraigo, Pang Tai Armas é o fornecedor primário de milícias de pequena-escala e mercenarios solos procurando por equipamento robusto de preço acessível na fronteira indomada. Produzindo principalmente equipamento de infantaria, Pang Tai Armas recentemente ampliou seu catálogo para incluir uma variedade de armamentos de nave e designs de embarcações, e expandiu a Taipan com a permissão de Sua Majestade Isobel II de passar pelo bloqueio real que separa Taipan do resto do espaço conhecido para comércio.
 
 employer_name_icm = Ihijerika Civilian Manufacturing
 employer_name_icm_command = Ihijerika Centcomm

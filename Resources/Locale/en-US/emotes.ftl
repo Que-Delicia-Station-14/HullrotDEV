@@ -1,7 +1,7 @@
-chat-emote-name-flip = Do a flip
-chat-emote-name-spin = Spin
-chat-emote-name-jump = Jump
+chat-emote-name-flip = Fazer uma cambalhota
+chat-emote-name-spin = Girar
+chat-emote-name-jump = Pular
 
-chat-emote-msg-flip = does a flip!
-chat-emote-msg-spin = spins!
-chat-emote-msg-jump = jumps!
+chat-emote-msg-flip = faz uma cambalhota!
+chat-emote-msg-spin = gira!
+chat-emote-msg-jump = pula!
