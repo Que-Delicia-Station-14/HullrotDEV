@@ -1,52 +1,52 @@
 # nanotrasen
-job-name-melee-borg = NT Nullifier Cyborg
-job-name-ranged-borg = NT Rectifier Cyborg
-job-name-utility-ipc = NT Engineer IPC
+job-name-melee-borg = Ciborgue Nulificador NT
+job-name-ranged-borg = Ciborgure Retificador NT
+job-name-utility-ipc = IPC Engenheiro NT
 
 # ncwl
 
 job-name-ncwl-faction-leader = Major
-job-name-ncwl-kommissar = Kommissar
-job-name-ncwl-fleetkapitan = Fleetkapitan
-job-name-ncwl-partisan = Partisan
-job-name-ncwl-artificer = Artificer
+job-name-ncwl-kommissar = Komissário
+job-name-ncwl-fleetkapitan = Komodoro
+job-name-ncwl-partisan = Partisão
+job-name-ncwl-artificer = Artífice
 job-name-ncwl-medical-doctor = Sanitar
-job-name-ncwl-coordinator = Union Coordinator
-job-name-ncwl-newbie = Union Worker
+job-name-ncwl-coordinator = Coordenador
+job-name-ncwl-newbie = Prole
 
 # syndicate
 
 job-name-ringleader = Ringleader
-job-name-lieutenant = Lieutenant
-job-name-infanteer = Gorlex Infanteer
-job-name-technician = Newblood
-job-name-coordinator = Interdyne Coordinator
+job-name-lieutenant = Tenente
+job-name-infanteer = Infantaria Gorlex
+job-name-technician = Carne Fresca
+job-name-coordinator = Coordenador Interdyne
 job-name-ripperdoc = Ripperdoc
-job-name-traumasec = TraumaSec Agent
-job-name-operative = Cyberdawn Asset Security
-job-name-cyberdawntech = Cyberdawn Researcher
-job-name-intelligenceofficer = Patriarch
-job-name-shipbreaker = Shipbreaker
-job-name-foreman = SAW Foreman
+job-name-traumasec = Agente TraumaSec
+job-name-operative = Equipe de Proteção Corporativa Cyberdawn
+job-name-cyberdawntech = Pesquisador Cyberdawn
+job-name-intelligenceofficer = Patriarca
+job-name-shipbreaker = Sucateiro
+job-name-foreman = Supervisor SAW
 
 # empire
 
 job-name-freeholder = Freeholder
-job-name-levyman = Man-at-Arms
-job-name-knight = Knight Banneret
-job-name-ritter = Baronial Ritter
-job-name-courtier = Courtier
-job-name-ministerlabor = Minister of Labor
-job-name-logisticsofficer = Minister of Wealth
-job-name-adjutant = Imperial Adjutant
-job-name-archmaester = Scribe Archmaester
-job-name-governor = Lord Admiral
-job-name-foremanimp = Imperial Foreman
-job-name-imperialresearch = Imperial Scribe
-job-name-surgeon = Imperial Surgeon
-job-name-wealth = Knight Logisticar
-job-name-advocatus = Advocatus
-job-name-advocatustemplar = Knight Templar
+job-name-levyman = Homem de Armas
+job-name-knight = Cavaleiro de Alferes
+job-name-ritter = Ritter Baronial
+job-name-courtier = Cortesão
+job-name-ministerlabor = Ministro do Trabalho
+job-name-logisticsofficer = Ministro da Logistica
+job-name-adjutant = Ajudante Imperial
+job-name-archmaester = Archimeistre Escriba
+job-name-governor = Lorde Almirante
+job-name-foremanimp = Supervisor Imperial
+job-name-imperialresearch = Escriba Imperial
+job-name-surgeon = Alquímico Imperial
+job-name-wealth = Cavaleiro Logístico
+job-name-advocatus = Advocato
+job-name-advocatustemplar = Cavaleiro Templário
 
 # srm
 

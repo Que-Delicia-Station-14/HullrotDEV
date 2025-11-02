@@ -1,2 +1,2 @@
-job-requirement-species-not-allowed = The [color=yellow]{$species}[/color] species are not allowed for this role.
-job-requirement-sex = This role is only for the opposite sex.
+job-requirement-species-not-allowed = A espécie [color=yellow]{$species}[/color] não é permitida para esse trabalho.
+job-requirement-sex = Esse trabalho é apenas para o sexo oposto.

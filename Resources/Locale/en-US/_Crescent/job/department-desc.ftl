@@ -1,8 +1,8 @@
-﻿department-NCWL-description = Maintain the Head of State's interests within Taypan. Attempt to regain control of the system.
-department-NCSP-description = Sell your services to the highest bidder. Continue the Endwar.
-department-DSM-description = Carry out the will of the Crown. Stamp out the Revolution.
-department-SRM-description = Carry out the divine will of the fallen Saint. Restore natural order.
-department-SHI-description = Wholesale and profit.
-department-CMM-description = Protect the little folk.
-department-TAP-description = A family of nomadic starfarers.
-department-ATH-description = A fascist regime from Sol.
+﻿department-NCWL-description = Mantenha os interesses do Chefe de Estado em Taypan. Tente recuperar o controle do sistema.
+department-NCSP-description = Venda seu serviço ao que mais pague. Continue a guerra.
+department-DSM-description = Realize a vontade do Kaiser. Apague o fogo da revolução.
+department-SRM-description = Cumpra as ordens divinas do Santo Caído. Restaure a ordem natural.
+department-SHI-description = Venda e lucro.
+department-CMM-description = Proteja os fracos.
+department-TAP-description = Um grupo de astrogadores nomádicos.
+department-ATH-description = Um regime fascista de Sol.
