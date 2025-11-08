@@ -1,7 +1,7 @@
 
 employer_name_irc = A Compania Aro de Ferro
 employer_name_irc_command = Aro de Ferro
-employer_description_irc = Fundada como uma subsidiaria para a Indústrias Pesadas Shinohara, A Aro de Ferro tem ,desde então, seguido seu próprio caminho e se estabelecido no Aro de Ferro dentro do Mar de Destroços. O principal fornecedor de equipamento para sucateamento no Setor, a Compania opera no pátio de sucata que serve como sua sede em Chengridz ao lado do Pátio Naval da Guarda, com enriquecimento junto da economia da União.
+employer_description_irc = Fundada como uma subsidiaria para a Shinohara Heavy Industries, A Aro de Ferro tem ,desde então, seguido seu próprio caminho e se estabelecido no Aro de Ferro dentro do Mar de Destroços. O principal fornecedor de equipamento para sucateamento no Setor, a Compania opera no pátio de sucata que serve como sua sede em Chengridz ao lado do Estaleiro Naval da Guarda, com enriquecimento junto da economia da União.
 
 employer_name_pta = Pang Tai Armas
 employer_name_pta_command = Comando Naval Kiraigo

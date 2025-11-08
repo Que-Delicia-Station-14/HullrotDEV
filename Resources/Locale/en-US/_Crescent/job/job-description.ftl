@@ -36,17 +36,17 @@ job-description-levyman = Obedeça seu soberano, o Lorde Almirante. Faça com qu
 job-description-knight = Organize a Marinha Imperial. Obedeça seu soberano, o Lorde Almirante.
 job-description-ritter = Vista sua Exocouraça. Obedeça seu soberano, o Lorde Almirante. Traga glória em batalha.
 job-description-courtier = Obedeça seu soberano, o Lorde Almirante. Almeje por poder na sua prestigiosa corte.
-job-description-labor = Supervise esforços de troca e indústria em nome de seu soberano, o Lorde Almirante.
+job-description-labor = Supervise esforços de comércio e indústria em nome de seu soberano, o Lorde Almirante.
 job-description-adjutant = Obedeça o Kaiser e seu soberano, o Lorde Almirante. Tente coordenar o Império.
 job-description-governor = Exercite a vontade do Kaiser. Proteja seu feudo. O Mandato deve sobreviver.
 job-description-logistics = Providencie as forças armadas do Lorde Almirante com naves e munição.
 job-description-wealth = Supervise a economia da baronia, gere dinheiro para o seu soberano, o Lorde Almirante e seus homens.
 job-description-foremanimp = Coordene os trabalhadores do seu soberano, o Lorde Almirante.
-job-description-scribe = Explore, descubra novas tecnologias, e recupere bens derelitos.
+job-description-scribe = Explore, descubra novas tecnologias, e recupere bens abandonados.
 job-description-archmaester = Coordene a Guilda dos Scribas, descubra novas tecnologias para o Lorde Almirante.
 job-description-surgeon = Atenda às preces por saúde de seus irmãos. Faça remédios.
 job-description-advocatus = Julgue a lealdade em seu soberano, dos subordinados do Kaiser. Questione violadores da Sua vontade. Assegure cooperação com o Mandato.
-job-description-advocatustemplar = Proteja o Advocato e faça a sua vontade. Assegure cooperação com o Mandato.
+job-description-advocatustemplar = Proteja o Inquisidor e faça a sua vontade. Assegure cooperação com o Mandato.
 
 # srm#
 
