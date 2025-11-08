@@ -12,7 +12,7 @@ job-name-ncwl-partisan = Partisão
 job-name-ncwl-artificer = Artífice
 job-name-ncwl-medical-doctor = Sanitar
 job-name-ncwl-coordinator = Coordenador
-job-name-ncwl-newbie = Prole
+job-name-ncwl-newbie = Proletário
 
 # syndicate
 
@@ -31,21 +31,21 @@ job-name-foreman = Supervisor SAW
 
 # empire
 
-job-name-freeholder = Freeholder
+job-name-freeholder = Fidalgo
 job-name-levyman = Homem de Armas
 job-name-knight = Cavaleiro de Alferes
 job-name-ritter = Ritter Baronial
 job-name-courtier = Cortesão
-job-name-ministerlabor = Ministro do Trabalho
+job-name-ministerlabor = Ministro da Indústria
 job-name-logisticsofficer = Ministro da Logistica
-job-name-adjutant = Ajudante Imperial
-job-name-archmaester = Archimeistre Escriba
+job-name-adjutant = Conselheiro Imperial
+job-name-archmaester = Archimestre Escriba
 job-name-governor = Lorde Almirante
 job-name-foremanimp = Supervisor Imperial
 job-name-imperialresearch = Escriba Imperial
 job-name-surgeon = Alquímico Imperial
-job-name-wealth = Cavaleiro Logístico
-job-name-advocatus = Advocato
+job-name-wealth = Senescal
+job-name-advocatus = Inquisidor
 job-name-advocatustemplar = Cavaleiro Templário
 
 # srm
