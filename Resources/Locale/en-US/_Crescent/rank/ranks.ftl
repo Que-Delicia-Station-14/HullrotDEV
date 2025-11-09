@@ -6,8 +6,8 @@ crescent-rank-private = Recruta
 
 # independents
 crescent-rank-ind-gliess-sheriff = Xerife
-crescent-rank-ind-gliess-deputy = Miliciano
-crescent-rank-ind-gliess-dockmaster = Mestre das Docas
+crescent-rank-ind-gliess-deputy = Deputy
+crescent-rank-ind-gliess-dockmaster = Mestre de Porto
 crescent-rank-ind-spacer = Spacer
 crescent-rank-ind-dockhand = Estivador
 
@@ -21,16 +21,16 @@ crescent-rank-shi-medtech = Medtech
 
 # empire
 crescent-rank-baron = Lorde Almirante
-crescent-rank-adjutant = Conselheiro
+crescent-rank-adjutant = Ajudante
 crescent-rank-knight = Senhor
 crescent-rank-manatarms = Soldado
 crescent-rank-smarts = Doutor
 crescent-rank-ministry = Ministro
 crescent-rank-courtier = Edler
-crescent-rank-archmaester = Arquimestre
-crescent-rank-advocatus = Inquisidor
+crescent-rank-archmaester = Arquimeistre
+crescent-rank-advocatus = Advocato
 crescent-rank-templar = Templário
-crescent-rank-freeholder = Fidalgo
+crescent-rank-freeholder = Freeholder
 
 # dsm-conscript
 crescent-rank-dsm-captain = Grand Steward
@@ -67,7 +67,7 @@ crescent-rank-ncwl-worker = Companheiro
 
 # syn
 
-crescent-rank-synadmin = Líder
+crescent-rank-synadmin = Ringleader
 crescent-rank-boss = Tenente
 crescent-rank-patriarch = Patriarca
 crescent-rank-operative = Operativo

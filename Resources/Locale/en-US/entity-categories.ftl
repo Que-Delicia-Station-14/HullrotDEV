@@ -1,1 +1,1 @@
-entity-category-name-actions = Ações
+entity-category-name-actions = Actions
