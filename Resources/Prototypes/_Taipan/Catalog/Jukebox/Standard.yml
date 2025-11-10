@@ -1,0 +1,59 @@
+- type: jukebox
+  id: killchain
+  name: The Killchain - Bolt Thrower
+  path:
+    path: "/Audio/_Taipan/Jukebox/killchain.ogg"
+
+- type: jukebox
+  id: zeroed
+  name: Zeroed - Bolt Thrower
+  path:
+    path: "/Audio/_Taipan/Jukebox/zeroed.ogg"
+
+- type: jukebox
+  id: deathsun
+  name: Death of The Sun - Cirith Ungol
+  path:
+    path: "/Audio/_Taipan/Jukebox/deathsun.ogg"
+
+- type: jukebox
+  id: starward
+  name: Starward Gaze
+  path:
+    path: "/Audio/_Taipan/Jukebox/starward.ogg"
+
+- type: jukebox
+  id: pplarmy
+  name: We are the Army of the People! (Synth Mix) - Ayden George
+  path:
+    path: "/Audio/_Taipan/Jukebox/pplarmy.ogg"
+
+- type: jukebox
+  id: shattered
+  name: Shattered - Vulta
+  path:
+    path: "/Audio/_Taipan/Jukebox/shattered.ogg"
+
+- type: jukebox
+  id: sdnc
+  name: SD-NC - Starsector OST
+  path:
+    path: "/Audio/_Taipan/Jukebox/sdnc.ogg"
+
+- type: jukebox
+  id: ttnc
+  name: TT-NC - Starsector OST
+  path:
+    path: "/Audio/_Taipan/Jukebox/ttnc.ogg"
+
+- type: jukebox
+  id: omnissiah
+  name: Children of the Omnissiah - Guillaume David
+  path:
+    path: "/Audio/_Taipan/Jukebox/omnissiah.ogg"
+
+- type: jukebox
+  id: against
+  name: Back Against the Wall
+  path:
+    path: "/Audio/_Taipan/Jukebox/against.ogg"
