@@ -1,29 +1,32 @@
 - type: faction
-  name: "Divine Sol Mandate"
+  name: "Mandato Solar Divino"
   id: DSM
   descriptionPrefix: |
-    MINIMUM PLAYTIME: NONE
-    One of the two major players in the Taypan Sector.
-    Good for new players, and represents the core Hullrot experience.
+    Mandato Solar Divino
+    TEMPO DE JOGO PRÉVIO RECOMENDADO: NENHUM
+    Um dos grandes poderes no Setor Taipan.
+    Bom para novos jogadores e representa a experiência de Hullrot em seu príncipio.
   buttonColor: DarkSlateBlue
   description: |
-    Controlling much of human space outside the Crescent, the Divine Sol Mandate, or simply
-    'the Empire' to laymen, are a product of early space-era corporate classism and
-    post-exploration boom-feudalism, ruled by the mysticized, allegedly all-powerful 'Kaiser' from
-    the Prime system within the Imperial Core constellation, formerly known to archivists as Sol and
-    Pisces, respectively. After the uprising of the NCWL, the Empire had found themselves diminished,
-    but a succesful counter-attack managed to secure the starfortress Kal Suzerai
-    and allowed for a return of Imperial forces to the area, altough control on the fringes of Taypan
-    is still disputed, and raids or terror acts are common.
+    Controlando muito do espaço conhecido fora do Crescente, o Mandato Solar Divino, ou simplesmente
+    'O Império' para os leigos, é um produto da miséria dos sistemas centrais pós-colapso interestelar
+    com uma rápida expansão imperialista, que logo iria se estabilizar em um sistema feudal,
+    governado pelo mistificado e supostamente todo poderoso 'Kaiser' do sistema Prime dentro
+    do setor do Núcleo Imperial, antigamente conhecido pelo registro imperial como Sol e Pisces,
+    respectivamente. Após a rebelião da LTNC (NCWL), no Crescente, O Império se encontrou enfraquecido,
+    mas um contra-ataque bem sucedido conseguiu recuperar a fortaleza estelar de Kal Surezai
+    e abriu o caminho para o retorno Imperial ao sistema, embora o controle nas periferias de Taipan
+    ainda é disputado, batalhas e atos de terror são comuns.
 
-    Effectively the prime superpower of all of humanity, the Empire allows for a good amount of
-    economic freedom for its subjects and promotes loyalty in a manner not too dissimilar to
-    the megacorporations of old Earth, with aspiring members climbing up the noble ladder of
-    different houses, such as House Olywir of the Domain system. Freeholders thinking that they
-    can speak up against the current regime quickly find themselves screened against and
-    detained, however, with tight information control preventing widespread dissent and
-    often rewriting history itself to suit the needs of the Empire. Other races are permitted within Imperial
-    ranks, but often subject to increased scrutiny and formal or informal discrimination
+    Sendo efetivamente a principal superpotência de toda a humanidade, O Império permite um grau
+    liberdade econõmica para seus subordinados e promove lealdade de um jeito não tão diferente das
+    megacorporações da Antiga Terra, com aspirantes subindo a escada nobre de diferentes casas ou
+    guildas, como a Casa de Olywir do sistema de Domínio. Fidalgos tentando se manifestar contra
+    o regime rápidamente são detidos e desaparecem misteriosamente. Controle de informação firme
+    e reescrição histórica funcionam para servir as vontades do Império.
+    
+    Espécies não-humanas são permitidas em algumas posições prestigiosas mas são sujeitas a julgamento
+    intensivo de seus superiores e discriminação formal e não-formal.
   color: "#9FED58"
   weight: 8
   enabled: true
@@ -32,12 +35,13 @@
     state: dsm
 
 - type: faction
-  name: "New Crescent Worker's League"
+  name: "Liga dos Trabalhadores da Nova Crescente"
   id: NCWL
   descriptionPrefix: |
-    MINIMUM PLAYTIME: NONE
-    One of the two major players in the Taypan Sector.
-    Good for new players, and represents the core Hullrot experience.
+    Liga dos Trabalhadores da Nova Crescente
+    TEMPO DE JOGO PRÉVIO RECOMENDADO: NENHUM
+    Um dos grandes poderes no Setor Taipan.
+    Bom para novos jogadores e representa a experiência de Hullrot em seu príncipio.
   buttonColor: "#a46106"
   description: |
     Stitched together from the still-warm corpses of many labor unions that were in disorganized rebellion
@@ -58,7 +62,8 @@
   name: "Shinohara Heavy Industries"
   id: SHI
   descriptionPrefix: |
-    MINIMUM PLAYTIME: 3 HOURS / 1 ROUND
+    Shinohara Heavy Industries
+    TEMPO DE JOGO PRÉVIO RECOMENDADO: 3 HORAS / 1 ROUND
     An industrial giant, with trade-heavy gameplay and high tech.
     Expect heavy profit quotas, pirate raids and little support.
   buttonColor: DarkSlateGray
@@ -76,10 +81,11 @@
     state: shi
 
 - type: faction
-  name: "Taypani Freestations Coalition"
+  name: "Coalizão das Estações Livres Taipenhas"
   id: TFSC
   descriptionPrefix: |
-    MINIMUM PLAYTIME: 3 HOURS / 1 ROUND
+    Coalizão das Estações Livres Taipenhas
+    TEMPO DE JOGO PRÉVIO RECOMENDADO: 3 HORAS / 1 ROUND
     Four individual corporations united under one flag, for profit and freedom.
     Other factions may offer contracts or ask for your services.
     Other factions may be suspicious or immediately hostile.
@@ -137,7 +143,7 @@
     the rebuilding effort.
   color: "#9FED58"
   weight: 3
-  enabled: true
+  enabled: false
   icon:
     sprite: /Textures/_Crescent/faction_icons.rsi
     state: srm
@@ -169,7 +175,7 @@
     itself to suit the needs of the Authority.
   color: "#ffffed"
   weight: 2
-  enabled: true
+  enabled: false
   icon:
     sprite: /Textures/_Crescent/faction_icons.rsi
     state: csa

@@ -30,6 +30,9 @@
   id: Clarizian
   nameKey: nationality_name_clarizian
   descriptionKey: nationality_description_clarizian
+  requirements:
+    - !type:FactionRequirement
+     factionID: "ATH"
   functions:
     - !type:TraitModifyLanguages
       languagesSpoken:
@@ -56,6 +59,9 @@
   id: Authority
   nameKey: nationality_name_authority
   descriptionKey: nationality_description_authority
+  requirements:
+    - !type:FactionRequirement
+     factionID: "ATH"
   functions:
     - !type:TraitModifyLanguages
       languagesSpoken:

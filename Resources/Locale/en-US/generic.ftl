@@ -4,13 +4,13 @@ generic-not-available-shorthand = N/A
 generic-article-a = a
 generic-article-an = an
 
-generic-unknown = unknown
-generic-unknown-title = Unknown
-generic-error = error
-generic-invalid = invalid
+generic-unknown = desconhecido
+generic-unknown-title = Desconhecido
+generic-error = erro
+generic-invalid = inválido
 
-generic-hours = hours
+generic-hours = horas
 
-generic-playtime-title = Playtime
+generic-playtime-title = Tempo de jogo
 
-generic-confirm = Confirm
+generic-confirm = Confirmar
